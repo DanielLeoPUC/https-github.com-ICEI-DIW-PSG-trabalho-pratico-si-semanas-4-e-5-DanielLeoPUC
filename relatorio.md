@@ -1,5 +1,5 @@
 # Semana 5 de DIW - Relatório de Desempenho.
-> **Nota Final:** **`34.26 / 100`**
+> **Nota Final:** **`37.60 / 100`**
 
 Olá, **DanielLeoPUC**! 👋
 
@@ -26,15 +26,6 @@ Parabéns! Você completou os seguintes itens bônus, demonstrando um ótimo con
 
 ## ✅ Requisitos Essenciais
 Encontramos alguns pontos nos requisitos essenciais que precisam de sua atenção:
-
-#### Tópico: Structure
-> ❌ **Falhou** no teste `has_tag` (Parâmetros: tag: `article`, required_count: 4)
-> - **Detalhes:** Atenção: Foram encontradas 0 de 4 tags `<article>`  necessárias.
-
-
-> - 📚 **Recurso Sugerido:** [Guia completo sobre elementos e tags HTML.](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
-
-
 
 #### Tópico: Link
 > ❌ **Falhou** no teste `check_internal_links_to_articles`
@@ -127,7 +118,6 @@ Foram detectadas algumas práticas que resultaram em penalidades. Veja os detalh
 ### 📝 Resumo dos Pontos de Atenção
 | Ação | Tópico | Teste e Parâmetros |
 |:---|:---|:---|
-| Revisar | `structure` | `has_tag`<br><sub>tag: `article`, required_count: 4</sub> |
 | Revisar | `link` | `check_internal_links_to_articles`<br><sub></sub> |
 | Revisar | `responsivity` | `uses_relative_units`<br><sub></sub> |
 | Revisar | `responsivity` | `check_media_queries`<br><sub></sub> |
